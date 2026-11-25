@@ -1,0 +1,20 @@
+{
+  "name": "java-dev-kit",
+  "version": "0.3.0",
+  "description": "Twenty-one slash commands for Java and Gradle connector work: code review, tests, test plans, coverage, coding standards, Javadoc, API docs, ADRs, C4 and UML diagrams, design docs, planning, Gradle builds, refactoring, security review, debugging, commit messages and pull requests.",
+  "author": {
+    "name": "Tanishq Gandhi"
+  },
+  "keywords": [
+    "java",
+    "gradle",
+    "connector",
+    "commands",
+    "testing",
+    "code-review",
+    "security",
+    "documentation",
+    "uml",
+    "git"
+  ]
+}

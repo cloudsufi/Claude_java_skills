@@ -1,0 +1,14 @@
+{
+  "name": "java-dev-kit",
+  "description": "Slash commands for Java and Gradle connector work.",
+  "owner": {
+    "name": "Tanishq Gandhi"
+  },
+  "plugins": [
+    {
+      "name": "java-dev-kit",
+      "source": "./",
+      "description": "Twenty-one slash commands for Java and Gradle connector work: code review, tests, test plans, coverage, coding standards, Javadoc, API docs, ADRs, C4 and UML diagrams, design docs, planning, Gradle builds, refactoring, security review, debugging, commit messages and pull requests."
+    }
+  ]
+}
